@@ -1,0 +1,1 @@
+I'm beginning this years problems in 2026, since I missed it the first time around. Since I'm doing them so far after the fact, I'll be treating this less like speed competition code, and more like code I'd be willing to submit for work.
